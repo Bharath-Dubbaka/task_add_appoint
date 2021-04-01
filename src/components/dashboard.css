@@ -1,0 +1,59 @@
+.form_firstrow_container {
+  display: flex;
+}
+.form_firstrow_container .firstrow_title_field {
+  width: 25em;
+}
+
+/* secondrow styles */
+.form_secondflex_container {
+  display: flex;
+}
+.secondflex_div .sencondrow_date_field {
+  width: 12em;
+  margin-right: 1em;
+}
+.form_secondflex_container .sencondrow_time_field {
+  width: 10em;
+  margin-right: 1em;
+}
+
+/* third row styles */
+.form_thirdflex_container {
+  display: flex;
+}
+.form_thirdflex_container .thirdrow_all_field {
+  width: 15em;
+  margin-right: 1em;
+}
+
+/* fourth row styles */
+.form_fourthflex_container {
+  display: flex;
+}
+.form_fourthflex_container .fourthrow_all_field {
+  width: 15em;
+  margin-right: 1em;
+}
+
+/* fifth row */
+.form_fifthflex_container {
+  display: flex;
+}
+.form_fifthflex_container .fifthrow_comments_field {
+  width: 31em;
+  margin-right: 1em;
+  height: 10em;
+}
+.form_fifthflex_container .buttonsubmit {
+  background-color: #008081;
+  color: rgb(221, 219, 219);
+  width: 140px;
+  margin-top: 20px;
+}
+.form_fifthflex_container .buttoncancel {
+  background-color: #00818100;
+  color: rgba(15, 11, 11, 0.918);
+  width: 140px;
+  margin-top: 20px;
+}

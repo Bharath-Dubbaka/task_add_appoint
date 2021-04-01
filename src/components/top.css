@@ -1,0 +1,9 @@
+.common_color {
+  color: #46cceb;
+}
+
+.details_sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
